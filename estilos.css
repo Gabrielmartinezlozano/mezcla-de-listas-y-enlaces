@@ -1,3 +1,4 @@
 hr {text-align: center; width: 100%; border: 1px dashed  rgb(0, 0, 250);  }
 h1{color: red; padding: 60px;}
 p{color: orange; font-size: 50px;}
+ol { list-style-type: upper-roman }
