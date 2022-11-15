@@ -3,3 +3,7 @@ h1{color: red; padding: 60px;}
 p{color: orange; font-size: 50px;}
 ol { list-style-type: upper-roman }
 ul{list-style-type:circle}
+a:link { color:rgb(158, 1, 61); text-decoration: none }
+a:visited { color: red;}
+a:hover { color: rgb(21, 255, 0); font-weight: bold }
+a:active { color: rgb(255, 145, 0); }
