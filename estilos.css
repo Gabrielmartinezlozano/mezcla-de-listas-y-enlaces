@@ -10,16 +10,16 @@ h1 {
 }
 
 ol {
-    list-style-type: upper-roman
+    list-style-type: upper-roman;
 }
 
 ul {
-    list-style-type: circle
+    list-style-type: circle;
 }
 
 a:link {
     color: rgb(158, 1, 61);
-    text-decoration: none
+    text-decoration: none;
 }
 
 a:visited {
@@ -28,7 +28,7 @@ a:visited {
 
 a:hover {
     color: rgb(21, 255, 0);
-    font-weight: bold
+    font-weight: bold;
 }
 
 a:active {
