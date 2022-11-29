@@ -7,15 +7,16 @@ hr {
 h1 {
     color: rgb(255, 102, 0);
     padding: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 ol {
-    color:black;
+    color: black;
     list-style-type: upper-roman;
 }
 
 ul {
-    color:rgb(0, 0, 250);
+    color: rgb(0, 0, 250);
     list-style-type: circle;
 }
 
@@ -45,4 +46,9 @@ a:active {
     font-style: italic;
     font-size: 100%;
 }
+
+header {
+    color: antiquewhite
+}
+
 /*Aquí finaliza la hoja de estilos CSS*/
