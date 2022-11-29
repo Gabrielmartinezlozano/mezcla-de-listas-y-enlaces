@@ -10,10 +10,12 @@ h1 {
 }
 
 ol {
+    color:rgb(0, 300, 0);
     list-style-type: upper-roman;
 }
 
 ul {
+    color:rgb(0, 0, 250);
     list-style-type: circle;
 }
 
@@ -33,6 +35,8 @@ a:hover {
 
 a:active {
     color: rgb(255, 145, 0);
+    list-style-type: circle;
+
 }
 
 .clase1 {
@@ -41,4 +45,4 @@ a:active {
     font-style: italic;
     font-size: 200%;
 }
-/*Aquí finaliza el css*/
+/*Aquí finaliza la hoja de estilos CSS*/
