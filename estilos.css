@@ -1,7 +1,7 @@
 hr {
     text-align: center;
     width: 100%;
-    border: 1px line rgb(0, 0, 250);
+    border: 1px dashed rgb(0, 0, 250);
 }
 
 h1 {
